@@ -1,6 +1,8 @@
 %global packname  Formula
 %global rlibdir  %{_libdir}/R/library
 
+%define debug_package %{nil}
+
 Name:             R-%{packname}
 Version:          1.1_0
 Release:          1
