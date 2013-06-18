@@ -5,7 +5,7 @@
 
 Name:             R-%{packname}
 Version:          1.1_0
-Release:          1
+Release:          2
 Summary:          Extended Model Formulas
 Group:            Sciences/Mathematics
 License:          GPL-2
