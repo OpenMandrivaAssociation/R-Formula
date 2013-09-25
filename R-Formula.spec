@@ -4,13 +4,13 @@
 %define debug_package %{nil}
 
 Name:             R-%{packname}
-Version:          1.1_0
-Release:          2
+Version:          1.1.1
+Release:          1
 Summary:          Extended Model Formulas
 Group:            Sciences/Mathematics
 License:          GPL-2
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_1.1-0.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/Formula_1.1-1.tar.gz
 Requires:         R-stats 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-stats
 
@@ -51,4 +51,5 @@ rm -f %{buildroot}%{rlibdir}/R.css
 + Revision: 776236
 - Import R-Formula
 - Import R-Formula
+
 
