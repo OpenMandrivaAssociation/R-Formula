@@ -9,7 +9,7 @@ Release:          2
 Summary:          Extended Model Formulas
 Group:            Sciences/Mathematics
 License:          GPL-2
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/Formula_1.1-1.tar.gz
 Requires:         R-stats 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-stats
